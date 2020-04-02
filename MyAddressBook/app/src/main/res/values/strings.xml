@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAddressBook</string>
+    <string name="name">Name</string>
+
+
+    <string name="action_settings">Delete All</string>
+    <string name="activity_title_home">Persons</string>
+    <string name="msg_no_persons">No persons found!</string>
+    <string name="lbl_new_person_title">New Person</string>
+    <string name="lbl_edit_person_title">Edit Person</string>
+    <string name="hint_enter_person">Enter your name!</string>
+</resources>
