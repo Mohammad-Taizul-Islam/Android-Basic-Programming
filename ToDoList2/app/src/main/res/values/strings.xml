@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="save">Save</string>
+    <string name="give_opinion">Give Opinion</string>
+    <string name="give_your_task">Give Your Task</string>
+    <string name="doto">DOTO</string>
+    <string name="enter_place">Enter Place</string>
+    <string name="add">Add</string>
+</resources>

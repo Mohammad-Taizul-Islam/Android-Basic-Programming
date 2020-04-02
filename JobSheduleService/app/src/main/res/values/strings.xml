@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JobSheduleService</string>
+    <string name="do_task">Do task</string>
+    <string name="start_task">Start Task</string>
+    <string name="cancel_task">Cancel Task</string>
+    <string name="schedule_job">Schedule Job</string>
+    <string name="cancel_job">Cancel Job</string>
+</resources>

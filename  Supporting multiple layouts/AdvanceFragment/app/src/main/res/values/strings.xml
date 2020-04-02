@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">AdvanceFragment</string>
+    <string-array name="continents">
+        <item>AFRICA</item>
+        <item>ASIA</item>
+        <item>NORTH_AMERICA</item>
+        <item>SOUTH_AMERICA</item>
+        <item>ANTARCTICA</item>
+        <item>AUSTRALIA</item>
+        <item>EUROPE</item>
+    </string-array>
+    <string name="ANTARCTICA">
+        The continent of Antarctica is positioned as the southernmost land mass on Earth. The South Pole can be found here among its large permanent glaciers and frigid weather. Even though Antarctica has one of the harshest climates and most unwelcoming terrains on planet Earth, there are still nearly five thousand people that temporarily call this continent home every year. This makes Antarctica the least populated continent on Earth. Antarctica is known as the coldest landmass and has few native plants or animals because most of the continent is covered in sheets of ice that can be more than a mile thick which forms permanent glaciers. You can find penguins, seals, plants, and fungi in Antarctica. Interestingly, this continent is the only one which has no reptiles on its land mass.
+        Antarctica is the 5th in terms of size compared to the other 7 continents. Both Australia and Europe could fit in the same area that Antarctica covers. The continent is known for being extremely dry which qualifies it as the largest desert region in the world. Antarctica has one of the windiest and coldest climates of the world’s continents. Temperatures can reach −90°C (−130 °F) in some regions of the continent.
+    </string>
+    <string name="ASIA">
+        Asia covers nearly 9 percent of the earth’s surface making it the largest of the continents. It is also the home to the most people with an estimated population of 4.3 billion as of 2015 which represents nearly 60% of the world’s population. With this many people, Asia is attributed with being a vital part of the world’s economy. Asia covers nearly 10% of the planet’s surface area and is loosely defined as the eastern portion of the Eurasia continent with the border following a line north from the Aegean Sea to the Black Sea to the NW corner of the Caspian Sea to the Ural River into the Arctic Ocean. The continent is primarily positioned within the northern hemisphere along the eastern portion. On the eastern border, you will find the Pacific Ocean, along the southern border you will find the Indian Ocean, and you can find the Arctic Ocean along the northernmost border.Asia contains some of the oldest civilizations among the 7 continents including the countries of China and Japan. Asia includes the Saudi Arabia peninsula with the oil-rich countries including the United Arab Emirates and Kuwait. The continent also includes the manufacturing centers of India and Japan and Hong Kong, which is a leading banking and corporate center.
+        
+    </string>
+    <string name="AFRICA">
+        While Africa is first alphabetically, it is second in both population and size among the Earth’s seven continents. Over 1 billion people can call Africa home. The people of Africa are spread across 54 different countries in Africa. This continent is home to 15% of the world’s population and the continent makes up 20% of the total land area on planet earth. The equator passes through the center of the continent which provides for largely warm and/or tropical climates. The northern and the southern portion of Africa have more temperate conditions. Of the continents of the world, Africa is unique in that it stretches between the northern and southern temperate zones. Africa is also attributed with being the birthplace of mankind. The oldest fossil evidence of Homo sapiens was found in the eastern part of the continent.
+
+        Africa’s large size and varying climates make it host to many of the most interesting species of plants and animals on Earth. There are currently more than 7,000 different species of mammals, fish, and birds in Africa. There are more than 100,000 species of insects as well. Here you can find both the largest ( African Elephant) and tallest (Giraffe) animal.
+
+        There are several bodies of water surrounding the continent of Africa. You can find the Indian Ocean to the southeast, the Atlantic Ocean to the west, the Mediterranean Sea to the north and the Red Sea to the northeast. The continent of Europe and Africa are very close together. They are only 8.9 miles(14.3 km) apart on the northwest corner of Africa. At 4,352 miles long, the Nile River is the longest river in the world and runs along the northeast side of the continent.
+    </string>
+    <string name="AUSTRALIA">
+        The continent of Australia includes the mainland of the country Australia and the island regions of New Guinea, Tasmania, and Seram. During ice ages, when much of the world’s water was frozen in glaciers, the Australian mainland was connected by land bridges to these islands. Australia is the smallest of the 7 continents but is home to the sixth largest country which is known by the same name, Australia. The continent gets its name from the latin word ‘australis’ which translates to mean southern. As a result of the continent’s geography and size, it is often referred to as an “island” continent. Australia is surrounded by two oceans. The Indian ocean is found on the western side and the pacific ocean is found on the eastern side.
+
+        Australia is the most isolated and remote continent of the 7 continents and has been least influenced by migrations of people, plants, and animals. This had led to Australia having a wide variety of animals and plants which are unique in the world such as the kangaroo, koala, dingo, wallaby, and wombat. Of the 5,700 hundred species of animals on the continent of Australia, more than 80% are unique and cannot be found anywhere else in the world. The continent is also home to the world’s largest reef and one of the greatest natural wonders, The Great Barrier Reef.
+
+        The continent first was inhabited by man nearly 45,000 years ago. European inhabitants came onto the Australian landmass in the 1700’s. Australia is one of the least populated continents yet the country of Australia is the 12th largest economy in the world.
+    </string>
+    
+    <string name="EUROPE">
+        The western portion of the Eurasian landmass is known as Europe. It is noted as one of the smallest of the 7 continents after Australia, with 7 percent of the world’s landmass. However, Europe is home to about 11% of Earth’s population and is the second most densely populated continent, with 134 people per square mile, behind Asia’s 203 people per square mile.
+
+        Europe is comprised of approximately 50 countries and several other territories. The country of Russia is the largest country and the area that is occupied by Vatican City in Italy is the smallest. However, Russia has portions of its territory in both the continent of Europe and Asia with forty percent falling in the continent of Europe. Europe, by definition, includes the continental mainland ending in the east at the Ural Mountains in Russia. Europe also includes islands such as Iceland, Sicily, and the British Isles. The British Isles consist of the large island that is home to England, Scotland, and Wales, and is called Great Britain; the British Isles also include the small island that contains Northern Ireland and the Republic of Ireland, and several much smaller surrounding islands.
+
+        There are several bodies of water that surround the continent of Europe. To the south, you will find the Mediterranean Sea and the Black Sea, to the west is the Atlantic Ocean, and to the north is the Arctic Ocean.
+
+        Europe has played host to many historic events over the course of history that have left a lasting effect and shaped the continent we know today. People have been living in Europe for about 100,000 years. Around 2000 B.C., Indo-European settlers came and brought the language that most modern European languages are descended from. The ancient Greek and Roman civilizations flourished there, from which we get much of our learning and culture. In the 5th and 6th centuries, the Germanic tribes swept over most of Europe, and their descendants shaped the modern countries of Scandinavia and west and central Europe. By this time the Roman empire had become Christian, and eventually, all of Europe became Christian, for reasons of both faith and economics. The diversity and size of Europe led to the continent hosting much of World War I and World War II.
+
+
+    </string>
+    
+    <string name="NORTH_AMERICA">
+        The North American continent is the 3rd largest continent. It includes the countries of Canada, United States, Greenland, Mexico and the Latin American regions that serve as a connection between North and South America. North America makes up about 17 percent of the world’s landmass and is home to about 8 percent of the people. The continent is found entirely in the northern hemisphere and surrounded by the Arctic Ocean to the north, the Pacific Ocean to the West, and the Atlantic Ocean to the east.
+
+        The population of about 565 million people are situated in about 23 independent countries. The earliest human inhabitants in North America were from Asia and crossed into Alaska over the Bering land bridge during an ice age. The arrival of Europeans occurred in the mid-1600s. This population is now dominant in North America.
+
+        North America has a very diverse climate, wildlife, and geography. From extreme desert temperatures in Death Valley to the snow-covered mountains of Mount McKinley to the largest freshwater lake in the U.S. (2nd largest in the world), Lake Superior
+
+        North America is responsible for nearly 50% of the world’s corn production and 1/5th of the world’s wheat production. The continent is also an economic juggernaut with the largest GDP per capita of the 7 continents. You can also find the busiest airport in all of the 7 continents on the North American continent at Atlanta International Airport, in Atlanta, Georgia, United States.
+    </string>
+    <string name="SOUTH_AMERICA">
+        he South American continent is the southern portion of the larger American continent and located in the southern hemisphere. The equator passes through the continent offering a tropical climate for much of the landmass with temperate conditions possible in the south. South America is surrounded by the Pacific Ocean on the western border and the Atlantic Ocean on its eastern border. This continent is the fourth largest of the 7 continents and is made up of twelve countries with Brazil being the largest in terms of both land mass and population.
+
+        South America is home to incredible biodiversity. South America includes the Andes Mountains which comprise the longest range of peaks in the world. It is home to the Amazon River, which passes the largest volume of water of any river in the world. You can also find the Amazon rainforest which is the world’s largest rainforest and is host to some of the most unique plants and animals on Earth. The continent is home to llamas and alpacas that originally were wild but became domesticated nearly 5,000 years ago.
+
+        The indigenous people of South America may have migrated south from North America although the majority of its current 371 million residents are of European descent. The population is largely along the Pacific and Atlantic coasts with large portions of the inland regions hosting small and widely spread populations. Colonization efforts by Spanish and Portuguese explorers ultimately lead to the prevalence of those languages on the South American continent.
+
+
+    </string>
+</resources>

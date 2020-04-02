@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationSMS</string>
+    <string name="send">SEND</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_texts">Enter texts</string>
+    <string name="cancel">CANCEL</string>
+    <string name="current_place">Current Place</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

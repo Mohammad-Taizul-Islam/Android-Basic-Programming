@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityToActivity</string>
+    <string name="result">Result</string>
+    <string name="get_option">Get Option</string>
+    <string name="enter_number_1">Enter number 1</string>
+    <string name="enter_number_2">Enter number 2</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+    <string name="numbers_will_be_here">Numbers will be here</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LocationAlertTest</string>
+    <string name="here_will_be_location">here will be location</string>
+    <string name="location">Location</string>
+    <string name="search_contacts">Enter number</string>
+    <string name="send_location">SEND LOCATION</string>
+    <string name="choose_number_from_phone">Choose Number</string>
+    <string name="ds">ds</string>
+    <string name="location_dt">Here Will be Location detail</string>
+    <string name="chose_number">Chose Number</string>
+    <string name="share_location">Share Location</string>
+    <string name="auto_share">Auto Share</string>
+    <string name="book_mark_number">Save Number</string>
+    <string name="choose_the_number">Choose The Number :</string>
+    <string name="choose">choose</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="give_your_descriptions">Give your descriptions</string>
+    <string name="save_number">Save Number</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="emergency_contacts_message"><![CDATA[Emergency Contacts & Message]]></string>
+</resources>
